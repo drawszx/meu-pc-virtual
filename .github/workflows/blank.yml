@@ -1,4 +1,4 @@
-name: PC criado pelo @alves7.pcm
+name: PC criado pelo draw.cpm
 
 on:
   workflow_dispatch:
